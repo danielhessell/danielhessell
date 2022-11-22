@@ -19,7 +19,7 @@ I love working with back-end development and have been a developer since 2019, a
 - ⚡ Fun fact: sci-fi
 
 
-I also have another deprecated github accessible from [github.com/daniel21h](https://github.com/daniel21h).
+I also have another deprecated github accessible from [github.com/daniel21h](https://github.com/danielhesse).
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 <p align="center">

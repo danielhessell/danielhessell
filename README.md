@@ -14,7 +14,7 @@ I love working with back-end development and have been a developer since 2019, a
 
 - 💬 Ask me about Node.js and life
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-hessel-240731176/), daniel@sharbe.com.br or [Instagram](https://www.instagram.com/danielhessell/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielhessell/), daniel@sharbe.com.br or [Instagram](https://www.instagram.com/danielhessell/).
 
 - ⚡ Fun fact: sci-fi
 
